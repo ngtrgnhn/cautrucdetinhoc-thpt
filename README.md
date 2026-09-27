@@ -27,8 +27,8 @@ Câu D đúng.
 
 **Ví dụ phần chung:** <br> 
 <div style="border: 3px solid #ccc; padding: 10px; border-radius: px;">
-
 	Câu 1:
+
 		Người quản trị trang web Đoàn thanh niên của một trường trung học phổ thông đã tạo biểu mẫu bằng đoạn mã
 		HTML sau để các bạn học sinh đăng kí tham gia các hoạt động văn nghệ, thể thao trong trường:
 		<form action="dangki.php">
@@ -39,7 +39,8 @@ Câu D đúng.
 		    <input type="submit" value="Đăng kí">
 
 		</form>
-</div> <br>
+
 | Phát Biểu | Đúng | Sai |
 | :--- | :---: | :---: |
 | a. Biểu mẫu này có hai ô nhập dữ liệu và một nút gửi dữ liệu. | ◯ | ◯ |
+</div>
