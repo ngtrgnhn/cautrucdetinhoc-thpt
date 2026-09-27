@@ -31,6 +31,7 @@ Câu D đúng.
 	Câu 1:
 		Người quản trị trang web Đoàn thanh niên của một trường trung học phổ thông đã tạo biểu mẫu bằng đoạn mã
 		HTML sau để các bạn học sinh đăng kí tham gia các hoạt động văn nghệ, thể thao trong trường:
+		```html
 		<form action="dangki.php">
 		    Họ tên: <input type="text" name="hoten" value="">
 
