@@ -16,6 +16,7 @@
 Câu D đúng. 
 
 </div>
+
 > **Cách tính điểm:**
 >> Mỗi câu 0,25 điểm tương ứng 6 điểm cho phần 1. <br>
 
