@@ -45,7 +45,5 @@ Câu D đúng.
 	| a. Biểu mẫu này có hai ô nhập dữ liệu và một nút gửi dữ liệu. | ◯ | ◯ | 
 	| b. Giá trị của thuộc tính value của hai ô nhập dữ liệu không được để trống. | ◯ | ◯ | 
 	| c. Nếu nhập dữ liệu vào biểu mẫu và nhấn nút Đăng kí thì dữ liệu được gửi đến trang dangki.php. | ◯ | ◯ | 
-	| d. Để học sinh chỉ được lựa chọn một trong hai loại hoạt động Văn nghệ hoặc Thể thao khi đăng kí tham gia, cần chèn thêm hai dòng sau vào đoạn mã tạo biểu mẫu trên:
-	<input type="radio" name="optvannghe">Văn nghệ
-	<input type="radio" name="optthethao">Thể thao | ◯ | ◯ | 
+	| d. Để học sinh chỉ được lựa chọn một trong hai loại hoạt động Văn nghệ hoặc Thể thao khi đăng kí tham gia, cần chèn thêm hai dòng sau vào đoạn mã tạo biểu mẫu trên: <br> <input type="radio" name="optvannghe">Văn nghệ <br> <input type="radio" name="optthethao">Thể thao | ◯ | ◯ | 
 </div>
